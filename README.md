@@ -105,7 +105,7 @@ Das Programm ist kostenlos nutzbar. **Der Quellcode wird nicht veröffentlicht u
 
 <img width="562" height="491" alt="Screenshot 2026-11-02 132017" src="https://github.com/user-attachments/assets/74fb9403-0180-46aa-823e-d07bc60d180f" />
 
-<img width="557" height="489" alt="Screenshot 2026-11-01 214312" src="https://github.com/user-attachments/assets/40141162-05f1-446c-be58-0479e6aefeda" />
+<img width="562" height="491" alt="Screenshot 2026-11-02 132017" src="https://github.com/user-attachments/assets/c3843205-433f-476e-8b66-90e124c47b38" />
 
 <img width="563" height="493" alt="Screenshot 2026-11-02 131920" src="https://github.com/user-attachments/assets/485a5e76-10e7-427a-814a-cfecee4f8524" />
 
