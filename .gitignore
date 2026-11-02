@@ -1,0 +1,19 @@
+# Keep private development files out of the public repository
+*.cs
+*.csproj
+*.sln
+*.ps1
+*.cmd
+*.bat
+*.csv
+*.pfx
+*.p12
+*.key
+*.pem
+/bin/
+/obj/
+/Ausgabe/
+/PRIVATE/
+/Builder/
+*.exe
+*.zip
