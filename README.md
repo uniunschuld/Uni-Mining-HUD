@@ -103,4 +103,21 @@ Das Programm ist kostenlos nutzbar. **Der Quellcode wird nicht veröffentlicht u
 
 ---
 
+<img width="562" height="491" alt="Screenshot 2026-11-02 132017" src="https://github.com/user-attachments/assets/74fb9403-0180-46aa-823e-d07bc60d180f" />
+
+<img width="557" height="489" alt="Screenshot 2026-11-01 214312" src="https://github.com/user-attachments/assets/40141162-05f1-446c-be58-0479e6aefeda" />
+
+<img width="563" height="493" alt="Screenshot 2026-11-02 131920" src="https://github.com/user-attachments/assets/485a5e76-10e7-427a-814a-cfecee4f8524" />
+
+<img width="564" height="493" alt="Screenshot 2026-11-02 132036" src="https://github.com/user-attachments/assets/1407cd67-8bfd-4ee9-9d73-122d8184ce3d" />
+
+<img width="411" height="197" alt="Screenshot 2026-11-02 132100" src="https://github.com/user-attachments/assets/03253ed3-d37f-493e-8c29-855b971c3bc5" />
+
+<img width="563" height="491" alt="Screenshot 2026-11-02 132153" src="https://github.com/user-attachments/assets/f303e7db-7458-4337-9d73-fd12d406de95" />
+
+<img width="432" height="239" alt="Screenshot 2026-11-02 132135" src="https://github.com/user-attachments/assets/4e2b0840-31bd-417a-83dd-87f07ef90cc7" />
+
+
+
+
 Copyright © 2026 UniUnschuld. All rights reserved / Alle Rechte vorbehalten.
