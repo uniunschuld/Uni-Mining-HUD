@@ -58,7 +58,7 @@ More information & user guide
 Want to see how Uni Mining HUD works before downloading it?
 I've also created a dedicated page on UniverseHub with screenshots, a feature overview and a step-by-step guide to setting up and using the overlay.
 The page is available in German and English.
-🌐 Website & Guide: https://universehub.de/?page_id=68&preview=true
+🌐 Website & Guide: [https://universehub.de/?page_id=68&preview=true](https://universehub.de/uni-mining-hud/)
 ---
 
 ## Deutsch
